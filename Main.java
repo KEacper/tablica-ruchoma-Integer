@@ -21,7 +21,7 @@ class Main {
       
     } 
     int suma = 0;
-    int avg = 0;
+    double avg = 0;
     int dodatnie = 0;
     for (int i=0;i<list.size();i++){
       suma = suma + list.get(i);
